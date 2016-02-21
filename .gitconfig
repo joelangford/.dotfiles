@@ -1,0 +1,5 @@
+[user]
+	name = Joe Langford
+	email = dev@joelangford.com
+[core]
+	autocrlf = input
