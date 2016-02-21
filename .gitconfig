@@ -3,3 +3,5 @@
 	email = dev@joelangford.com
 [core]
 	autocrlf = input
+[credential]
+	helper = osxkeychain
