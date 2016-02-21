@@ -1,6 +1,7 @@
 # dotfiles
 
-# Install
+Install
+=======
 ln -sfv ~/.dotfiles/.bash_profile ~  
 ln -sfv ~/.dotfiles/.bashrc ~  
 ln -sfv ~/.dotfiles/.gitconfig ~  
