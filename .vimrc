@@ -44,6 +44,7 @@ map <C-n> :NERDTreeToggle<CR>
 set expandtab
 set shiftwidth=2
 set softtabstop=2
+set backspace=2
 set mouse=ar mousemodel=extend 
 
 " EDITOR APPEARENCE
